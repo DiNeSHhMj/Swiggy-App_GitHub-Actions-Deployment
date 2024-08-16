@@ -1,4 +1,4 @@
-# Swiggy Clone Deployment using GitHub Actions
+# Automated Swiggy Application Deployment Using GitHub Actions
 
 This project demonstrates the deployment of a Swiggy clone application using GitHub Actions as the CI/CD tool. It leverages Terraform for infrastructure automation on AWS, including EC2 and EKS services, DockerHub for container management, SonarQube for code quality checks, and Prometheus & Grafana for monitoring. Below are the detailed steps for deploying the application.
 
