@@ -130,7 +130,7 @@ Ensure you have the following installed and set up:
 1. Clone the EKS Terraform folder from the GitHub repository:
 
     ```bash
-    git clone https://github.com/Aakibgithuber/deployment-using-github-actions.git
+    https://github.com/DiNeSHhMj/CICD-for-Swiggy-GitHub-Actions-Deployment
     cd deployment-using-github-actions/Eks-terraform
     ```
 
